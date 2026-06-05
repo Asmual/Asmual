@@ -1,4 +1,4 @@
-![logo](https://github.com/Asmual/Asmual/blob/main/Asmual-GitHub%20Banner.png)
+https://github.com/Asmual/Asmual/blob/main/Asmual-GitHub%20Banner-1.png
 ### Hi there 👋, I'm Asmual Obaidul Hoque
 #### Web Developer
 
