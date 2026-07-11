@@ -43,14 +43,24 @@
 ### 🏥 DocAppoint — Doctor Booking Platform
 Full-stack system for doctor search, appointment booking, and role-based dashboards.  
 **Tech:** Next.js • Node.js • MongoDB • JWT • Google OAuth  
-🌐 Live: https://assignment-9-eight-drab.vercel.app
+🌐 Live: https://docappoint-eight-drab.vercel.app
+
+---
+
+### 🎨 ArtHub — Online Art Marketplace
+
+A full-stack art marketplace where users can explore, purchase, and review artworks, while artists manage their collections through a role-based dashboard.
+
+**Tech:** Next.js • Node.js • MongoDB • Tailwind CSS • Better Auth • Stripe
+
+🌐 Live: https://arthub-three.vercel.app
 
 ---
 
 ### 🛒 SunCart — E-Commerce Platform
 Modern shopping platform with authentication, product filtering, and cart system.  
 **Tech:** React • Node.js • MongoDB • Tailwind CSS • Better Auth  
-🌐 Live: https://assignment-8-woad-three.vercel.app
+🌐 Live: https://suncart-woad-three.vercel.app
 
 ---
 
