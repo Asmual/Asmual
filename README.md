@@ -1,7 +1,13 @@
-![logo](https://github.com/Asmual/Asmual/blob/main/Asmual-GitHub%20Banner.png)
+![Header Banner](https://raw.githubusercontent.com/Asmual/Asmual/main/profile-header.png)
+
 <!-- HEADER -->
 # 👋 Hi, I'm ASMUAL OBAIDUL HOQUE  
-### 🚀 Full Stack Web Developer (MERN Stack)
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF87&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Frontend+Developer;React+%26+Next.js+Specialist;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
 > “I build scalable, real-world web applications with clean UI, secure backend, and performance in mind.”
 
@@ -15,62 +21,68 @@
 - 🌍 Love working with modern web technologies
 
 ---
+
+## 📬 Contact & Info
+
+- 📍 **Location:** Cox’s Bazar, Bangladesh
+- 📧 **Email:** asmual01@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/asmual](https://www.linkedin.com/in/asmual)
+- 🐙 **GitHub:** [github.com/Asmual](https://github.com/Asmual)
+
+---
+
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,git,github,tailwind,theme=dark" alt="Skills Icons" />
+  </a>
+</p>
+
+---
+
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmual&theme=tokyonight)
 
 ---
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
 
 ## 🚀 Featured Projects
 
-### 🏥 DocAppoint — Doctor Booking Platform
+### 🎨 1. ArtHub — Online Art Marketplace
+A full-stack art marketplace where users can explore, purchase, and review artworks, while artists manage their collections through a role-based dashboard.  
+**Tech:** Next.js • Node.js • MongoDB • Tailwind CSS • Better Auth • Stripe  
+🌐 **Live:** [https://arthub-three.vercel.app](https://arthub-three.vercel.app)
+
+---
+
+### 🏥 2. DocAppoint — Doctor Booking Platform
 Full-stack system for doctor search, appointment booking, and role-based dashboards.  
 **Tech:** Next.js • Node.js • MongoDB • JWT • Google OAuth  
-🌐 Live: https://docappoint-eight-drab.vercel.app
+🌐 **Live:** [https://docappoint-eight-drab.vercel.app](https://docappoint-eight-drab.vercel.app)
 
 ---
 
-### 🎨 ArtHub — Online Art Marketplace
-
-A full-stack art marketplace where users can explore, purchase, and review artworks, while artists manage their collections through a role-based dashboard.
-
-**Tech:** Next.js • Node.js • MongoDB • Tailwind CSS • Better Auth • Stripe
-
-🌐 Live: https://arthub-three.vercel.app
-
----
-
-### 🛒 SunCart — E-Commerce Platform
+### 🛒 3. SunCart — E-Commerce Platform
 Modern shopping platform with authentication, product filtering, and cart system.  
 **Tech:** React • Node.js • MongoDB • Tailwind CSS • Better Auth  
-🌐 Live: https://suncart-woad-three.vercel.app
+🌐 **Live:** [https://suncart-woad-three.vercel.app](https://suncart-woad-three.vercel.app)
 
 ---
 
+## 🤝 Connect With Me
 
-## 📫 Connect With Me
-
-- 📧 Email: asmual01@gmail.com  
-- 📍 Location: Cox’s Bazar, Bangladesh  
-- 💼 LinkedIn: https://www.linkedin.com/in/asmual
-- 🐙 GitHub: https://github.com/Asmual
+<p align="left">
+  <a href="https://github.com/Asmual" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/asmual" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:asmual01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
