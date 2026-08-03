@@ -86,4 +86,4 @@ Modern shopping platform with authentication, product filtering, and cart system
 
 ---
 
-⭐ *“Code is not just writing—it’s solving real-world problems.”*
+⭐ *“Code is not just writing—it’s solving real-world problems...”*
