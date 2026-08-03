@@ -1,7 +1,7 @@
 ![Header Banner](https://raw.githubusercontent.com/Asmual/Asmual/main/profile-header.png)
 
 <!-- HEADER -->
-# 👋 Hi, I'm ASMUAL OBAIDUL HOQUE  
+# Hi, I'm ASMUAL OBAIDUL HOQUE  
 
 <p align="left">
   <a href="https://git.io/typing-svg">
