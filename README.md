@@ -1,4 +1,4 @@
-![Header Banner](https://raw.githubusercontent.com/Asmual/Asmual/main/profile-header.png)
+![Header Banner](https://github.com/Asmual/Asmual/blob/main/Asmual-Header.png)
 
 <!-- HEADER -->
 # Hi, I'm ASMUAL OBAIDUL HOQUE 👋
@@ -98,7 +98,7 @@ Modern shopping platform with authentication, product filtering, and cart system
 A comprehensive full-stack e-commerce and aquatic knowledge platform where users can explore fish species, shop for aquarium accessories, and manage orders seamlessly.
 - **Tech Stack:** Next.js 14 • TypeScript • Express.js • MongoDB • BetterAuth • JWT • Tailwind CSS • DaisyUI
 - **Key Features:** Role-Based Access Control (Admin/Buyer), Live Search & Category Filtering, Order Tracking, ImgBB Cloud Integration.
-- 🌐 **Live Site:** [fishpedia.vercel.app](https://fishpedia.vercel.app) | 🐙 **Client Repo:** [GitHub](https://github.com/Asmual/FishPedia-Client) | ⚙️ **Server Repo:** [GitHub](https://github.com/Asmual/FishPedia-Server)
+- 🌐 **Live Site:** [fish-pedia.vercel.app](https://fish-pedia.vercel.app) | 🐙 **Client Repo:** [GitHub](https://github.com/Asmual/FishPedia-Client) | ⚙️ **Server Repo:** [GitHub](https://github.com/Asmual/FishPedia-Server)
 
 ---
 
