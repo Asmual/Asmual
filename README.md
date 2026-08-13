@@ -3,14 +3,13 @@
 <!-- HEADER -->
 # Hi, I'm ASMUAL OBAIDUL HOQUE 👋
 
-
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF87&width=450&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;TypeScript+Developer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
-> “I build scalable, real-world web applications with clean UI, robust backend architecture, and performance in mind.”
+> "I build scalable, real-world web applications with clean UI, robust backend architecture, and performance in mind."
 
 ---
 
@@ -56,13 +55,14 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Asmual&label=Profile%20Views&color=00FF87&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asmual&show_icons=true&theme=tokyonight&hide_border=true" alt="Asmual's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asmual&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asmual&show_icons=true&theme=tokyonight&hide_border=true" alt="Asmual's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmual&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -124,4 +124,4 @@ A modern full-stack web application designed for a construction and architectura
   </a>
 </p>
 
-⭐ *“Code is not just writing—it’s solving real-world problems...”*
+⭐ *"Code is not just writing—it's solving real-world problems..."*
