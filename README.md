@@ -61,10 +61,10 @@
   <img src="https://komarev.com/ghpvc/?username=Asmual&label=Profile%20Views&color=00FF87&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asmual&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Asmual's GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmual&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Asmual&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
