@@ -74,6 +74,22 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Asmual&label=Profile%20Views&color=00FF87&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Asmual&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./assets/github-contributions.svg" alt="Asmual's GitHub Contribution Graph" />
+</p>
+
+---
+
 ## 🚀 Featured Production Projects
 
 ### 🌟 1. ShopNexus — Next-Gen AI E-Commerce Ecosystem *(Team HEXADEVS)*
@@ -188,17 +204,7 @@ A feature-rich productivity workspace inspired by Google Keep. Organize ideas wi
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Asmual&label=Profile%20Views&color=00FF87&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Asmual&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
