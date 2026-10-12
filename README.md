@@ -84,15 +84,31 @@
   <img src="https://streak-stats.demolab.com/?user=Asmual&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="./assets/github-contributions.svg" alt="Asmual's GitHub Contribution Graph" />
-</p>
-
 ---
 
 ## 🚀 Featured Production Projects
 
-### 🌟 1. ShopNexus — Next-Gen AI E-Commerce Ecosystem *(Team HEXADEVS)*
+
+
+### 🛒 1. eShop BD — Modern Multi-Vendor E-Commerce Platform
+A full-scale multi-vendor retail marketplace engineered with **PostgreSQL & Prisma ORM**. Empowers independent sellers with dedicated onboarding (`Become a Seller`) while offering consumers flash deals with synchronized countdown timers, verified promotional discount vouchers (`FIRST15`), and multi-stage parcel tracking.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
+
+- ⚡ **Key Highlights:** Strict Relational ACID Transactions (`prisma.$transaction`), Row-Level Stock Locking (`SELECT FOR UPDATE`), Dynamic Coupon Engine, Live Order Telemetry (`Track Order`), 10+ Retail Departments with BDT (৳) pricing.
+- 🌐 **Live Demo:** [eshop-bd.vercel.app](https://eshop-bd.vercel.app)
+- 🐙 **Client Repo:** [GitHub](https://github.com/Asmual/eShop-BD-Client) | ⚙️ **Server Repo:** [GitHub](https://github.com/Asmual/eShop-BD-Server)
+
+---
+### 🌟 2. ShopNexus — Next-Gen AI E-Commerce Ecosystem *(Team HEXADEVS)*
 An enterprise-grade multimodal AI commerce ecosystem built collaboratively with the **HEXADEVS** team. Features **Google Gemini Vision** live camera & photo search, **RFC 6238 TOTP 2FA** with emergency master override, a real-time **3-second live visitor telemetry with 1-click IP Shield firewall**, and dual POS thermal & A4 invoicing.
 
 <p align="left">
@@ -109,25 +125,6 @@ An enterprise-grade multimodal AI commerce ecosystem built collaboratively with 
 - ⚡ **Key Highlights:** Gemini AI Vision Match (96% precision), Hardware/Software 2FA (TOTP RFC 6238), 3s Live Visitor Heartbeat, 100% Zero-Reload Bilingual (English & Bengali with ৳ currency).
 - 🌐 **Live Demo:** [shop-nexus-frontend-ten.vercel.app](https://shop-nexus-frontend-ten.vercel.app)
 - 🐙 **Client Repo:** [GitHub (ShopNexus-Frontend)](https://github.com/Saad7528/ShopNexus-Frontend) | ⚙️ **Server Repo:** [GitHub (ShopNexus-Backend)](https://github.com/Saad7528/ShopNexus-Backend)
-
----
-
-### 🛒 2. eShop BD — Modern Multi-Vendor E-Commerce Platform
-A full-scale multi-vendor retail marketplace engineered with **PostgreSQL & Prisma ORM**. Empowers independent sellers with dedicated onboarding (`Become a Seller`) while offering consumers flash deals with synchronized countdown timers, verified promotional discount vouchers (`FIRST15`), and multi-stage parcel tracking.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-</p>
-
-- ⚡ **Key Highlights:** Strict Relational ACID Transactions (`prisma.$transaction`), Row-Level Stock Locking (`SELECT FOR UPDATE`), Dynamic Coupon Engine, Live Order Telemetry (`Track Order`), 10+ Retail Departments with BDT (৳) pricing.
-- 🌐 **Live Demo:** [eshop-bd.vercel.app](https://eshop-bd.vercel.app)
-- 🐙 **Client Repo:** [GitHub](https://github.com/Asmual/eShop-BD-Client) | ⚙️ **Server Repo:** [GitHub](https://github.com/Asmual/eShop-BD-Server)
 
 ---
 
