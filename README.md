@@ -160,7 +160,7 @@ An enterprise chamber docket system built for Supreme Court & High Court advocat
 </p>
 
 - ⚡ **Key Highlights:** Forensic Audit Logging (100% immutable action tracing), 3-Tier RBAC (Admin/Advocate/Associate), Automated PDF Supreme Court Daily Cause Lists, Commercial Bank Client Directory.
-- 🌐 **Live Demo:** [law-firm-solutions.vercel.app](https://law-firm-solutions.vercel.app)
+- 🌐 **Live Demo:** [law-firm-solutions-zeta.vercel.app](https://law-firm-solutions-zeta.vercel.app)
 - 🐙 **Client Repo:** [GitHub](https://github.com/Asmual/Law-Firm-Solutions) | ⚙️ **Server Repo:** [GitHub](https://github.com/Asmual/Law-Firm-Solutions-Server)
 
 ---
