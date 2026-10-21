@@ -104,8 +104,8 @@ A full-scale multi-vendor retail marketplace engineered with **PostgreSQL & Pris
 </p>
 
 - ⚡ **Key Highlights:** Strict Relational ACID Transactions (`prisma.$transaction`), Row-Level Stock Locking (`SELECT FOR UPDATE`), Dynamic Coupon Engine, Live Order Telemetry (`Track Order`), 10+ Retail Departments with BDT (৳) pricing.
-- 🌐 **Live Demo:** [eshop-bd.vercel.app](https://eshop-bd.vercel.app)
-- 🐙 **Client Repo:** [GitHub](https://github.com/Asmual/eShop-BD-Client) | ⚙️ **Server Repo:** [GitHub](https://github.com/Asmual/eShop-BD-Server)
+- 🌐 **Live Demo:** [https://e-shop-bd-gamma.vercel.app](https://e-shop-bd-gamma.vercel.app)
+- 🐙 **Client Repo:** [GitHub](https://github.com/Asmual/eShopBD) | ⚙️ **Server Repo:** [GitHub](https://github.com/Asmual/eShopBD-Server)
 
 ---
 ### 🌟 2. ShopNexus — Next-Gen AI E-Commerce Ecosystem *(Team HEXADEVS)*
