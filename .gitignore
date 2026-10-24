@@ -9,3 +9,14 @@ director.js
 *.eot
 .env*.local
 *.env
+
+.vscode/
+run.bat
+git.txt
+myGit.txt
+AGENTS.md
+CLAUDE.md
+.agent*
+.cloud*
+.env
+.env.local
