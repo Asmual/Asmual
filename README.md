@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> *"I engineer high-performance, real-world web platforms with modern UI craftsmanship, scalable relational & document databases, and enterprise-grade security."*
+> *"I engineer high-performance, real-world web platforms with modern UI craftsmanship, scalable relational & document databases, and enterprise-grade security..."*
 
 ---
 
