@@ -17,3 +17,6 @@ AGENTS.md
 CLAUDE.md
 .agent*
 .cloud*
+
+.vscode/
+public/fonts/
