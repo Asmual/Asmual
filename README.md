@@ -1,4 +1,5 @@
-![Header Banner](https://github.com/Asmual/Asmual/blob/main/Asmual-Header.png)
+<img width="1914" height="630" alt="image" src="https://github.com/user-attachments/assets/0ed41787-412d-4826-99f2-55dad67e2ea1" />
+
 
 <!-- HEADER -->
 # Hi, I'm ASMUAL OBAIDUL HOQUE 👋
